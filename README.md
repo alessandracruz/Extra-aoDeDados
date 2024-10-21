@@ -96,8 +96,9 @@ A persistência dos dados, tanto dos dados vindos diretamente da NewsAPI quanto 
 - Cadastro no **[Databricks Community](https://www.databricks.com/try-databricks#account)**;
 
 
+
 ## ⚙️ Passo a passo para executar o projeto:
-1. Cadastro e login no **[Databricks Community](https://www.databricks.com/try-databricks#account)**;
+1. Cadastro e login no **[Databricks Community](https://community.cloud.databricks.com/login.html)**;
 2. Import de todos os notebooks presentes nesse projeto para o workspace do Databricks:
     - Pode baixar todos os notebooks e importar via browse;
     - Ou pode importar através da URL dos notebooks presentes no item [Acesso direto aos notebooks no Databricks](#-acesso-direto-aos-notebooks-no-databricks);
