@@ -131,6 +131,3 @@ A persistência dos dados, tanto dos dados vindos diretamente da NewsAPI quanto 
 - Aumentar o número de palavras-chave para aumentar as notícias extraídas da [NewsAPI](https://newsapi.org/);
 - Melhorar o consumo dos dados da [NewsAPI](https://newsapi.org/) já que o plano gratuito permite apenas 100 requisições ao dia;
 - Fazer o deploy do projeto para não precisar abrir várias guias do Databricks no navegador.
-
-
-
